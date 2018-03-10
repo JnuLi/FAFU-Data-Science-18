@@ -1,5 +1,9 @@
 # 第二章：大数据分析的Python（上）
 
+[[课件](https://share.weiyun.com/e788064a42f2537effafe85bf56b7dfa)]/[[代码：numpy](np.md)]
+
+# 补充材料
+
 ## Python
 
 ### 入门
