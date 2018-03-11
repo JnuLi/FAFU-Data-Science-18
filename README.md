@@ -23,7 +23,23 @@ FAFU数据科学研讨班(2018)
 * [第十六章：XGBoost和lightGBM](03机器学习/16XGBoost和lightGBM)
 * [番外：数据清洗](03机器学习/17数据清洗)
 
-## 参考资料
+## 补充材料
+
+### 参考书籍
+
+* 数据科学导引
+
+* 周志华：机器学习
+
+* 李航：统计学习方法
+
+### 参考网站
+
+* [Data Science & Artificial Intelligence](https://chrisalbon.com/#machine_learning)
+
+* [数据嗨客](http://hackdata.cn/#)
+
+* [优达学城](https://cn.udacity.com/)
 
 ### 参考课程
 

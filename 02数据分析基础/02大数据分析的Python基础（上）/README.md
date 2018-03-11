@@ -1,6 +1,6 @@
 # 第二章：大数据分析的Python（上）
 
-[[课件](https://share.weiyun.com/e788064a42f2537effafe85bf56b7dfa)]/[[代码：numpy](np.md)]
+[[课件](https://share.weiyun.com/e788064a42f2537effafe85bf56b7dfa)]/[[代码：numpy](np.md)]/[[作业](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650738513&idx=1&sn=ba0ff59b1dfbf139cc33c4a6b5b65a48&chksm=871acb2fb06d42391e3b107c35f615fd55e1fb5075f4a5f9d1560cdea178a51fd419e39018ca#rd)]
 
 # 补充材料
 
