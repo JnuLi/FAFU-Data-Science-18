@@ -5,7 +5,7 @@
 
 ## 课件
 
-* [1、课程介绍](https://share.weiyun.com/67034b0a19439b01a7f0c3d30ebd2158)
+* [1、课程介绍](https://share.weiyun.com/d8ac9c1118152070f4afe2fd9e618d66)
 
 * [2、数据嗨客：大数据技术和应用概述](https://share.weiyun.com/165d8a5e30a598be0cd914b24fd3e455)
 
