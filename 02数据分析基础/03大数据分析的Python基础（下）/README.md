@@ -1,9 +1,14 @@
 # 第三章：大数据分析的Python基础（下）
 
+[[课件]()] / [[pandas 代码](Pandas)]
+
+
+# 补充材料
+
 ## Pandas
 
 ### 入门
-* [科赛：andas基础命令速查清单](https://www.kesci.com/apps/home/project/59e389b54663f7655c48f518)
+* [科赛：Pandas基础命令速查清单](https://www.kesci.com/apps/home/project/59e389b54663f7655c48f518)
 
 * [科赛：这十套练习，教你如何用Pandas做数据分析](https://www.kesci.com/apps/home/project/59e77a636d213335f38daec2)
 
