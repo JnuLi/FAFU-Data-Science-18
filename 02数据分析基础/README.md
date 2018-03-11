@@ -1,10 +1,10 @@
 # 数据分析基础
 
-## 补充资料
+## 补充材料
 
 ### 参考书籍
 
-* 利用python进行数据分析[[笔记](https://www.jianshu.com/p/04d180d90a3f)]/[[代码](https://github.com/BrambleXu/pydata-notebook)]
+* 利用python进行数据分析(第2版)[[笔记](https://www.jianshu.com/p/04d180d90a3f)]/[[代码](https://github.com/BrambleXu/pydata-notebook)]
 
 * Python数据科学手册[[图灵社区中文](http://www.ituring.com.cn/book/1937)]/[[在线网站英文](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)]
 
