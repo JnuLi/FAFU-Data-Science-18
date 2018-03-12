@@ -17,45 +17,37 @@ conda install pyparsing pydot
 
 ### 3、演示代码
 
-```{.python .input}
-import sys
-import numpy as np
+```{.python .input  n=6}
 from sklearn.datasets import load_iris
-from sklearn import tree  
-from sklearn.externals.six import StringIO  
-import pandas as pd
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.tree import export_graphviz
-from io import StringIO
-import pydot 
-from IPython.display import display
+import numpy as np
+from sklearn import tree
 from IPython.display import Image
+from sklearn.externals.six import StringIO
+import pydot
 
-df = pd.read_csv('Heart.csv', index_col=0)
-predictors_df = df[['Age', 'RestBP','Chol' , 'Fbs', 'RestECG', 'MaxHR', 'ExAng']]
-cat_predictors_df = df[['ChestPain','Thal',  'Sex']]
-dummies_df = pd.get_dummies(cat_predictors_df)
-dfpreds = predictors_df.join(dummies_df)
+iris = load_iris()
+test_idx = [0,50,100]
+# 训练数据
+train_target = np.delete(iris.target, test_idx)
+train_data = np.delete(iris.data, test_idx, axis=0)
 
-X = dfpreds
-y_l = df.iloc[:,-1]
-D = {"Yes":1, "No":0}
-y = [1*D[y_] for y_ in y_l] 
+# 测试数据
+test_target = iris.target[test_idx]
+test_data = iris.data[test_idx]
 
-idx = np.random.randint(len(X), size=len(X))
-Xb = X.iloc[idx, :]
-yb = np.array(y)[idx]
+# 训练分类器
+clf = tree.DecisionTreeClassifier()
+clf = clf.fit(train_data,train_target)
 
-bg = DecisionTreeClassifier(max_depth=3)
-bg.fit(Xb, yb)
-
-
-dummy_io = StringIO() 
-export_graphviz(bg, out_file = dummy_io, feature_names=X.columns,\
-                class_names=['Yes', 'No'], proportion=True, filled=True)
-(graph,)=pydot.graph_from_dot_data(dummy_io.getvalue())
-display(Image(graph.create_png()))
-
-
-graph.write_png("pruning_1.png")
+from sklearn.externals.six import StringIO
+import pydot
+dot_data = StringIO()
+tree.export_graphviz(clf, out_file=dot_data, 
+                         feature_names=iris.feature_names,  
+                         class_names=iris.target_names,  
+                         filled=True, rounded=True,  
+                         impurity=True) 
+graph = pydot.graph_from_dot_data(dot_data.getvalue())
+graph[0].create_png()
+graph[0].write_png("pruning_1.png")
 ```
