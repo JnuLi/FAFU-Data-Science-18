@@ -5,7 +5,7 @@
 
 [3、Python包](python.md)
 
-[3、jupyter notebook教程](Jupyter.md)
+[4、jupyter notebook教程](Jupyter.md)
 
 
 ## 补充材料
