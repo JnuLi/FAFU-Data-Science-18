@@ -1,11 +1,11 @@
 # 第一章：课程介绍
-[1、课程介绍](https://share.weiyun.com/d8ac9c1118152070f4afe2fd9e618d66)
 
-[2、数据嗨客：大数据技术和应用概述](https://share.weiyun.com/165d8a5e30a598be0cd914b24fd3e455)
+## 课件
+* [1、课程介绍](https://share.weiyun.com/5yUQ2ZT)
 
-[3、Python包](python.md)
+* [2、数据科学简介](https://share.weiyun.com/5XLtVpx)
 
-[4、jupyter notebook教程](Jupyter.md)
+* [3、插件]()
 
 
 ## 补充材料
