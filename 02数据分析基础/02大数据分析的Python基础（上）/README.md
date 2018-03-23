@@ -4,6 +4,9 @@
     - [python快速入门课件]()
     - [python快速入门（代码）课件](数据科学之路：02-1Python快速入门（代码）.pdf)
     - [源代码](Python.ipynb)
+* 2、Jupyter和Numpy
+    - [Jupyter和Numpy课件](数据科学之路：02-2Numpy和Scipy.pdf)
+    - [Jupyter和Numpy代码](Jupyter_numpy.ipynb)
 
 
 # 补充材料
