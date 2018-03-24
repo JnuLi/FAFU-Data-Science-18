@@ -7,6 +7,9 @@
 * 2、Jupyter和Numpy
     - [Jupyter和Numpy课件](数据科学之路：02-2Jupyter Notebook和Numpy.pdf)
     - [Jupyter和Numpy代码](Jupyter_numpy.ipynb)
+* 3、Pandas(上)
+    - [Pandas(上)课件](数据科学之路：02-3Pandas(上）.pdf)
+    - [Pandas(上)](Pandas_1.ipynb)
 
 
 # 补充材料
