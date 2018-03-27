@@ -1,6 +1,6 @@
 # 第二章：Python的科学计算工具
 
-* 1、Python快速入门
+* 1、Python 快速入门
     - [Python](Python.ipynb)
 * 2、Jupyter Notebook快速入门
     - [Jupyter]()
