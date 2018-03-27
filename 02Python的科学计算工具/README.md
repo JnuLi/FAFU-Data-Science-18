@@ -1,6 +1,28 @@
-# 数据分析基础
+# 第二章：Python的科学计算工具
+
+* 1、Python快速入门
+    - [Python](Python.ipynb)
+
+* 2、Jupyter Notebook
+
+* 3、Numpy
+    - [Jupyter和Numpy代码](Jupyter_numpy.ipynb)
+
+* 4、Pandas(上)
+    - [Pandas(上)](Pandas_1.ipynb)
+    - [Pandas(下)]()
+
+* 5、Matplotlib和Seaborn
+
+
 
 ## 补充材料
+
+* [数据嗨客：大数据分析的python基础](http://hackdata.cn/learn/course/2/)
+
+* [数据嗨客：Pandas数据分析](http://hackdata.cn/learn/course/9/)
+
+* [数据嗨客：数据可视化](http://hackdata.cn/learn/course/8/)
 
 ### 参考书籍
 
