@@ -4,15 +4,21 @@
     - [Python](Python.ipynb)
 
 * 2、Jupyter Notebook
+    - [Jupyter]()
 
 * 3、Numpy
-    - [Jupyter和Numpy代码](Jupyter_numpy.ipynb)
+    - [Numpy](Jupyter_numpy.ipynb)
 
 * 4、Pandas(上)
     - [Pandas(上)](Pandas_1.ipynb)
     - [Pandas(下)]()
 
 * 5、Matplotlib和Seaborn
+    - [Matplotlib]()
+    - [Seaborn]()
+
+* 6、Scikit-Learn
+    - [sklearn]()
 
 
 
