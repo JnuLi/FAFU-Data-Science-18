@@ -2,22 +2,17 @@
 
 * 1、Python快速入门
     - [Python](Python.ipynb)
-
-* 2、Jupyter Notebook
+* 2、Jupyter Notebook快速入门
     - [Jupyter]()
-
-* 3、Numpy
+* 3、Numpy快速入门
     - [Numpy](Jupyter_numpy.ipynb)
-
-* 4、Pandas(上)
+* 4、Pandas快速入门
     - [Pandas(上)](Pandas_1.ipynb)
     - [Pandas(下)]()
-
-* 5、Matplotlib和Seaborn
+* 5、Python可视化快速入门
     - [Matplotlib]()
     - [Seaborn]()
-
-* 6、Scikit-Learn
+* 6、Scikit-Learn快速入门
     - [sklearn]()
 
 
