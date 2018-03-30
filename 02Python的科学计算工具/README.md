@@ -13,7 +13,7 @@
     - [Matplotlib]()
     - [Seaborn]()
 * 6、Scikit-Learn快速入门
-    - [sklearn]()
+    - [sklearn](Scikit-Learn.ipynb)
 
 
 
